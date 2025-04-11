@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## My techstack
+![Alt text](https://pbs.twimg.com/media/GnCh38KWkAAR1FR?format=jpg&name=medium)
 <!--
 **cheesyisbetter/cheesyisbetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
